@@ -12,7 +12,7 @@ This repository contains our group project from the summer school at the **Unive
 4. **Decision trees:** Compared tree settings, evaluated predictions and explained the model’s decision rules.
 5. **Clustering:** Tested different numbers of K-means clusters and interpreted the selected groups using elbow and silhouette results.
 
-The repository includes five Jupyter notebooks with saved results and our final PowerPoint presentation.
+The repository includes five Jupyter notebooks with saved results and our final PowerPoint presentation
 
 ## Datasets and source
 
